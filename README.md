@@ -19,7 +19,7 @@ The android app lets you:
 
 ## Screenshots
 
-   [<img src="https://user-images.githubusercontent.com/82113036/123310251-b3bf8700-d547-11eb-9f84-2b636c43090f.png" align="center"
+   [<img src="https://user-images.githubusercontent.com/82113036/130833600-e6734f7d-f0ae-4cc7-833e-66cbf64ff988.png" align="center"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
 
